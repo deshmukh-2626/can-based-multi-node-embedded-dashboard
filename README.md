@@ -118,9 +118,9 @@ FUEL: █████       85%
 
 ## 👨‍💻 Author
 
-**Anurag Suryawanshi**  
+**Purushottam Deshmukh**  
 Embedded Systems Developer  
-[GitHub](https://github.com/Anuragsurya318) | [LinkedIn](https://linkedin.com/in/anurag-suryawanshi-40a3b420b)
+[GitHub](https://github.com/deshmukh-2626) | [LinkedIn](www.linkedin.com/in/purushottam2608)
 
 ---
 
